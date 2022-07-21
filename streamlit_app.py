@@ -2,7 +2,7 @@ import streamlit
 import pandas 
 import requests
 import snowflake.connector
-drom urllib.error import URLERROR
+from urllib.error import URLERROR
 
 
 streamlit.title('270 Toujours Plus Haut')
