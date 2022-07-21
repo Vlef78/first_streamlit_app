@@ -1,6 +1,7 @@
 import streamlit
 import pandas 
 import requests
+import snowflake.connector
 
 streamlit.title('270 Toujours Plus Haut')
 streamlit.header('Breakfast Menu')
