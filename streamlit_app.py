@@ -21,7 +21,7 @@ def insert_row_snowflake(new_fruit):
     
     
 
-streamlit.title('270 Toujours Plus Haut')
+streamlit.title('We love fruits')
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
